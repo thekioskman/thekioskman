@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+##Who am I🧐?
+I always find it hard to write these self exerts without sounding too fake, but I suppose if you are reading this, you want to know a bit about me. I am a creator, but not so much so in the physical sense. I enjoy the process of bringing things into existence, whether that's writing a story, finding a new trading strategy, or starting a company. Some say I’m a jack of all trades, others say I just lose interest too quickly. I say it’s my biggest strength and my biggest weakness. I take interest in and build a wide array of skills but I can’t say I’ve perfected anything. But a diverse skill set has allowed me to take a step back from whatever tech bubble I am currently immersed in and remember that what I am building is more than just the lines of code that make it work.
+
+##Skills?
+
+
 <!--
 **thekioskman/thekioskman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
