@@ -3,7 +3,6 @@ I always find it hard to write these self exerts without sounding too fake, but 
 
 ## Skills?
 
-
 <!--
 **thekioskman/thekioskman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
